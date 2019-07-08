@@ -1,1 +1,1 @@
-# autocure-profile
+# autocure-privacy
